@@ -1,9 +1,10 @@
 ---
 geometry:
-    - top=30mm
-    - left=25mm
-    - bottom=25mm
-    - heightrounded
+- top=30mm
+- left=25mm
+- bottom=25mm
+- heightrounded
+output: pdf_document
 ---
 
 # Minutes: SSA QLD Branch Council 29 Aug 2019
