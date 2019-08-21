@@ -1,6 +1,12 @@
-# Minutes of SSA QLD Branch Council August 2019
+---
+geometry:
+    - top=30mm
+    - left=25mm
+    - bottom=25mm
+    - heightrounded
+---
 
-## Date: 20 August 2019
+# Minutes: SSA QLD Branch Council 29 Aug 2019
 
 ### Attendees: Miranda, Adrian, Carmen, Laura, Peter
 
@@ -27,9 +33,10 @@ Newsletter:
 Young Stats Event: Very successful. Early speakers went over time so suggest a stronger chair for next event.
 
 Upcoming Meetings: 
-•	YS 2019 Conference: discussed possibility of providing Registration fees for event for eligible young statisticians who are currently a member of the Qld Branch and are either presenting a poster or talk at YS 2019. 
-Carmen will draft and send out/tweet request for applications.
-•	ASCNZ 2020 conference: (scholarships, support etc) Postponed until next Branch meeting
+
+* YS 2019 Conference: discussed possibility of providing Registration fees for event for eligible young statisticians who are currently a member of the Qld Branch and are either presenting a poster or talk at YS 2019. Carmen will draft and send out/tweet request for applications.
+
+* ASCNZ 2020 conference: (scholarships, support etc) Postponed until next Branch meeting
 
 ## Any Other Business
 
@@ -38,5 +45,7 @@ Adrian suggested Branch should put meeting notices, minutes etc on github.com fo
 Meeting closed at 5:25pm
 
 
-Peter Baker
+Peter Baker    
 21 August 2019
+
+Note: pdf produced with `pandoc` (pandoc in.md -o out.pdf)

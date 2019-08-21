@@ -1,6 +1,14 @@
-# Agenda for SSA QLD Branch Council August 2019
+---
+geometry:
+    - top=30mm
+    - left=25mm
+    - bottom=25mm
+    - heightrounded
+---
 
-## Time: 4:30-5:30 29 August 2019
+# Agenda: SSA QLD Branch Council 29 Aug 2019
+
+## Time: 4:30-5:30
 
 ## Venue: QUT GP-P-419 
 
