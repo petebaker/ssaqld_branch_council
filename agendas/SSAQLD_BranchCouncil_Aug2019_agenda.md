@@ -1,7 +1,3 @@
-Fill this in
-
-need a template
-
 # Agenda for SSA QLD Branch Council August 2019
 
 ## Time: 4:30-5:30 29 August 2019
