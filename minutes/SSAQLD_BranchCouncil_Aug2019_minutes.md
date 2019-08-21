@@ -37,7 +37,7 @@ Upcoming Meetings:
 
 * YS 2019 Conference: discussed possibility of providing Registration fees for event for eligible young statisticians who are currently a member of the Qld Branch and are either presenting a poster or talk at YS 2019. Carmen will draft and send out/tweet request for applications.
 
-* ASCNZ 2020 conference: (scholarships, support etc) Postponed until next Branch meeting
+* ANZSC 2020 conference: (scholarships, support etc) Postponed until next Branch meeting
 
 ## Any Other Business
 
