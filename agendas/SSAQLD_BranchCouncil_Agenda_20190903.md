@@ -43,18 +43,9 @@ geometry:
 
 Miranda emailed 29 August 2019.
 
-### 1. Dr  Tom Verhulst, 
-
-Head of our Regional Innovation Data Lab here at Griffith. Program
-Director, Regional Innovation Data Lab, Griffith University
-
-email t.verhelst@griffith.edu.au
-
-### 2. Try the statistician working in Indigenous statistics.
-
-Who knows of her in the team? Jessica Statistical literacy. Need a
-room too UQ
-
-### 3. Adrian Noon
-
-trained in journalism, likes  data(QT)
+1. Dr Tom Verhulst: Head of our Regional Innovation Data Lab here at
+   Griffith. Program Director, Regional Innovation Data Lab, Griffith
+   University. email t.verhelst@griffith.edu.au
+2. Try the statistician working in Indigenous statistics. Who knows of
+   her in the team? Jessica Statistical literacy. Need a room too UQ
+3. Adrian Noon: trained in journalism, likes  data(QT)
