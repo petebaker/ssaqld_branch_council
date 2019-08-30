@@ -1,7 +1,7 @@
 ## File: Makefile
 
 .PHONY: all
-all: SSAQLD_BranchCouncil_Aug2019_agenda.pdf
+all: SSAQLD_BranchCouncil_Agenda_20190903.pdf
 
 PANDOC = pandoc
 PANDOC_OPTS = -s
@@ -17,5 +17,9 @@ PANDOC_OPTS = -s
 	${PANDOC} ${PANDOC_OPTS} $< -o $@
 
 ## produce pdf, html, docx etc from test.Rmd
-SSAQLD_BranchCouncil_Aug2019_agenda.pdf: ${@:.pdf=.md}
-SSAQLD_BranchCouncil_Aug2019_agenda.docx: ${@:.pdf=.md}
+## although you can of course just use
+## $ make any_filename.pdf   etc
+SSAQLD_BranchCouncil_Agenda_20190820.pdf: ${@:.pdf=.md}
+SSAQLD_BranchCouncil_Agenda_20190820.docx: ${@:.pdf=.md}
+SSAQLD_BranchCouncil_Agenda_20190903.pdf: ${@:.pdf=.md}
+SSAQLD_BranchCouncil_Agenda_20190903.docx: ${@:.pdf=.md}

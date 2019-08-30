@@ -6,7 +6,7 @@ geometry:
     - heightrounded
 ---
 
-# Agenda: SSA QLD Branch Council 29 Aug 2019
+# Agenda: SSA QLD Branch Council 20 Aug 2019
 
 ## Time: 4:30-5:30
 
