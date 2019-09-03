@@ -1,7 +1,9 @@
 ## File: Makefile
 
+LATEST=SSAQLD_BranchCouncil_Sep2019_minutes
+
 .PHONY: all
-all: SSAQLD_BranchCouncil_Aug2019_minutes.pdf
+all: ${LATEST}.pdf
 
 PANDOC = pandoc
 PANDOC_OPTS = -s
