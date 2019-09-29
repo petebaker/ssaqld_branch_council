@@ -49,6 +49,34 @@ YS Scholarships: Laura would like us to discuss
   and dinner however they had signed up to these as an early bird
   before knowing they would receive support which is worth
   encouraging.
+  
+  Suggested CPD Course for Qld Branch early in new year (Also submitted to ANZSC2020)
+  
+- Course Title: Simplify your statistical life: Git for
+  collaborating with yourself and others.
+- Presenter: Peter Baker, Schoaol of Public Health, University of Queensland,
+  Herston, Australia. p.baker1@uq.edu.au
+- Brief Description for Flyer:
+
+Git is currently the most popular Version Control System employed by
+  software developers and statisticians alike. Sites like Github
+  provide a comprehensive platform to encourage collaboration on open
+  source software including R packages but it can do a whole lot
+  more. Git can also be used to manage syntax and data files employed
+  in data analysis or research projects, whether these are for a single
+  analyst or a team.
+
+This hands-on one day tutorial will step participants through the
+  basics of version control using Git and specific Github features.
+  No knowledge of Git is assumed although this course should also
+  prove valuable to intermediate Git users who want to know
+  more. Participants will be able to apply these techniques to projects
+  employing any statistical analysis and reporting software. Topics
+  covered include Git basics of repository initialisation,
+  configuration, committing changes, branches, stashing, handling merge
+  conflicts and working with remotes along with Github specific tools
+  like forking, issues tracking and continuous integration with
+  Travis.
 
 ## Upcoming meetings
 
