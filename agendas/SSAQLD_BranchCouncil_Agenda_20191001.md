@@ -20,8 +20,8 @@ geometry:
 - Update from President (Exec, Banner)
 - Treasurer: Report
 - Young Statisticians: Branch sponsoring YS 2019? Need to discuss 
-- Secretary (Unavailable)
-- Media (at YS2019)
+- Secretary (Dimitrios unavailable)
+- Media (Adrian at YS2019)
 - Web
 - Communication (streaming of meetings), advertising
 - Newsletter - photos
