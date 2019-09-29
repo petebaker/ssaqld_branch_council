@@ -33,7 +33,7 @@ option for the December Networking meeting.
 
 - Maybe South bank or the City ? She would like to suggest we go
   somewhere where we can get a small area set aside for us (Private
-  function) and we pay for some qplatters, and buy our own drinks ?
+  function) and we pay for some platters, and buy our own drinks ?
 - Or get a few jugs of beer ??
 - Encourage it to be a members only event?
 - Comments, ideas for the Tuesday meeting please?
@@ -54,7 +54,7 @@ option for the December Networking meeting.
   
 - Course Title: Simplify your statistical life: Git for
   collaborating with yourself and others.
-- Presenter: Peter Baker, Schoaol of Public Health, University of Queensland,
+- Presenter: Peter Baker, School of Public Health, University of Queensland,
   Herston, Australia. p.baker1@uq.edu.au
 
 #### Brief Description for Flyer:
