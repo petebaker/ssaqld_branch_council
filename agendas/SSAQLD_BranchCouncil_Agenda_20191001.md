@@ -56,7 +56,8 @@ option for the December Networking meeting.
   collaborating with yourself and others.
 - Presenter: Peter Baker, Schoaol of Public Health, University of Queensland,
   Herston, Australia. p.baker1@uq.edu.au
-- Brief Description for Flyer:
+
+#### Brief Description for Flyer:
 
 Git is currently the most popular Version Control System employed by software developers and statisticians alike. Sites like Github provide a comprehensive platform to encourage collaboration on open source software including R packages but it can do a whole lot more. Git can also be used to manage syntax and data files employed in data analysis or research projects, whether these are for a single analyst or a team.
 
