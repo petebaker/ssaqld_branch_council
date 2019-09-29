@@ -28,7 +28,7 @@ geometry:
 
 ## Specific discussion points
 
-December: Miranda would also like everyone to think of a pub/bar/café
+### December: Miranda would also like everyone to think of a pub/bar/café
 option for the December Networking meeting.
 
 - Maybe South bank or the City ? She would like to suggest we go
@@ -38,7 +38,7 @@ option for the December Networking meeting.
 - Encourage it to be a members only event?
 - Comments, ideas for the Tuesday meeting please?
 
-YS Scholarships: Laura would like us to discuss
+### YS Scholarships: Laura would like us to discuss
 
 - Aminath claimed $220 for non student registration
 - Farzana claimed $100 for student registration, $20 for the
@@ -50,7 +50,7 @@ YS Scholarships: Laura would like us to discuss
   before knowing they would receive support which is worth
   encouraging.
   
-  Suggested CPD Course for Qld Branch early in new year (Also submitted to ANZSC2020)
+### Suggested CPD Course for Qld Branch early in new year (Also submitted to ANZSC2020)
   
 - Course Title: Simplify your statistical life: Git for
   collaborating with yourself and others.
@@ -58,25 +58,9 @@ YS Scholarships: Laura would like us to discuss
   Herston, Australia. p.baker1@uq.edu.au
 - Brief Description for Flyer:
 
-Git is currently the most popular Version Control System employed by
-  software developers and statisticians alike. Sites like Github
-  provide a comprehensive platform to encourage collaboration on open
-  source software including R packages but it can do a whole lot
-  more. Git can also be used to manage syntax and data files employed
-  in data analysis or research projects, whether these are for a single
-  analyst or a team.
+Git is currently the most popular Version Control System employed by software developers and statisticians alike. Sites like Github provide a comprehensive platform to encourage collaboration on open source software including R packages but it can do a whole lot more. Git can also be used to manage syntax and data files employed in data analysis or research projects, whether these are for a single analyst or a team.
 
-This hands-on one day tutorial will step participants through the
-  basics of version control using Git and specific Github features.
-  No knowledge of Git is assumed although this course should also
-  prove valuable to intermediate Git users who want to know
-  more. Participants will be able to apply these techniques to projects
-  employing any statistical analysis and reporting software. Topics
-  covered include Git basics of repository initialisation,
-  configuration, committing changes, branches, stashing, handling merge
-  conflicts and working with remotes along with Github specific tools
-  like forking, issues tracking and continuous integration with
-  Travis.
+This hands-on one day tutorial will step participants through the basics of version control using Git and specific Github features.  No knowledge of Git is assumed although this course should also prove valuable to intermediate Git users who want to know more. Participants will be able to apply these techniques to projects employing any statistical analysis and reporting software. Topics covered include Git basics of repository initialisation, configuration, committing changes, branches, stashing, handling merge conflicts and working with remotes along with Github specific tools like forking, issues tracking and continuous integration with Travis.
 
 ## Upcoming meetings
 
