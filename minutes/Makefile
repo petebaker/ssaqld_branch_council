@@ -1,6 +1,6 @@
 ## File: Makefile
 
-LATEST=SSAQLD_BranchCouncil_Sep2019_minutes
+LATEST=SSAQLD_BranchCouncil_Oct2019_minutes
 
 .PHONY: all
 all: ${LATEST}.pdf
